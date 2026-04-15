@@ -6,6 +6,7 @@ langchain-community==0.0.31
 langchain-text-splitters
 pydantic==1.10.13
 torch
+torchvision
 transformers
 faiss-cpu
 sentence-transformers
